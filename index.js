@@ -1,4 +1,4 @@
-﻿var apiUrl = "http://localhost:55491/";
+﻿var apiUrl =  "https://inoteapi.kod.fun/";
 
 var app = angular.module("myApp", ["ngRoute"]);
 
